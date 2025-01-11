@@ -16,7 +16,6 @@ This project implements a multi-turtle management system using the `turtlesim` p
 - [Launch File](#launch-file)
 - [Output Video](#output-video)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ---
 
@@ -189,8 +188,4 @@ The following video demonstrates the project in action. It shows:
 - Implement logging or debugging tools for real-time monitoring.
 - Introduce new modes (e.g., prioritize specific turtles).
 
----
 
-## **License**
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
